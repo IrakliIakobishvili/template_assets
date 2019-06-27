@@ -388,7 +388,7 @@ src: local('Helvetica Neue Bold Italic'), url('https://github.com/IrakliIakobish
 font-family: 'Helvetica 97 Black Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica 97 Black Condensed'), url('https://github.com/IrakliIakobishvili/template_assets/blob/master/fonts/HelveticaNeue-BlackCond.woff') format('woff');
+src: local('Helvetica 97 Black Condensed'), url('https://github.com/IrakliIakobishvili/template_assets/blob/master/fonts/HelveticaNeue-BlackCond.woff?raw=true') format('woff');
 }
 
 
