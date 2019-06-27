@@ -364,7 +364,7 @@ src: local('Helvetica Neue Bold'), url('https://github.com/IrakliIakobishvili/te
 font-family: 'Helvetica Neue Condensed Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue Condensed Bold'), url('https://github.com/IrakliIakobishvili/template_assets/blob/master/fonts/HelveticaNeueCondensedBold.woff') format('woff');
+src: local('Helvetica Neue Condensed Bold'), url('https://github.com/IrakliIakobishvili/template_assets/blob/master/fonts/HelveticaNeueCondensedBold.woff?raw=true') format('woff');
 }
 
 
