@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  -105.31667,
+	  26.96667
+	]
+  },
+  "properties": {
+	"mass": "600000",
+	"name": "Allende",
+	"reclong": "-105.316670",
+	"geolocation_address": null,
+	"geolocation_zip": null,
+	"year": "1969-01-01T00:00:00.000",
+	"geolocation_state": null,
+	"fall": "Fell",
+	"id": "2278",
+	"recclass": "CV3",
+	"reclat": "26.966670",
+	"geolocation_city": null,
+	"nametype": "Valid"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  48,
+	  5
+	]
+  },
+  "properties": {
+	"mass": "600000",
+	"name": "Bur-Gheluai",
+	"reclong": "48.000000",
+	"geolocation_address": null,
+	"geolocation_zip": null,
+	"year": "1919-01-01T00:00:00.000",
+	"geolocation_state": null,
+	"fall": "Fell",
+	"id": "5169",
+	"recclass": "H5",
+	"reclat": "5.000000",
+	"geolocation_city": null,
+	"nametype": "Valid"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  109.5,
+	  30.80833
+	]
+  },
+  "properties": {
+	"mass": "600000",
+	"name": "Jianshi",
+	"reclong": "109.500000",
+	"geolocation_address": null,
+	"geolocation_zip": null,
+	"year": "1890-01-01T00:00:00.000",
+	"geolocation_state": null,
+	"fall": "Fell",
+	"id": "12087",
+	"recclass": "Iron, IIIAB",
+	"reclat": "30.808330",
+	"geolocation_city": null,
+	"nametype": "Valid"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  142.95,
+	  -25.73333
+	]
+  },
+  "properties": {
+	"mass": "600000",
+	"name": "Tenham",
+	"reclong": "142.950000",
+	"geolocation_address": null,
+	"geolocation_zip": null,
+	"year": "1879-01-01T00:00:00.000",
+	"geolocation_state": null,
+	"fall": "Fell",
+	"id": "23897",
+	"recclass": "L6",
+	"reclat": "-25.733330",
+	"geolocation_city": null,
+	"nametype": "Valid"
+  }
+	}
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+}
